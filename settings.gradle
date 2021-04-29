@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "C347_L2_EX2 Demo Implicit Intent"
